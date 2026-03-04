@@ -1,0 +1,273 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-0-201-07616-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Reading, Mass. : Addison-Wesley Pub. Co.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tukey</foaf:surname>
+                        <foaf:givenName>John W. (John Wilder)</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Internet Archive</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mathematics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archive.org/details/exploratorydataa0000tuke_7616</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-0-201-07616-5</dc:identifier>
+        <dc:date>1977</dc:date>
+        <dcterms:dateSubmitted>2026-03-04 23:10:30</dcterms:dateSubmitted>
+        <z:libraryCatalog>Internet Archive</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dcterms:abstract>xvi, 688 pages : 25 cm; This book serves as an introductory text for exploratory data analysis. It exposes readers and users to a variety of techniques for looking more effectively at data. The emphasis is on general techniques, rather than specific problems; On spine: EDA; Includes bibliographical references (page 666) and index; Scratching down numbers (stem-and-leaf) -- Schematic summaries (pictures and numbers) -- Easy re-expression -- Effective comparison (including well-chosen expression) -- Plots of relationship -- Straightening out plots (using three points) -- Smoothing sequences -- Optional sections for chapter 7 -- Parallel and wandering schematic plots -- Delineations of batches of points -- Using two-way analyses -- Making two-way analyses -- Optional sections for chapters 10 and 11 -- Advanced fits -- Three-way fits -- Looking in two or more ways at batches of points -- Counted fractions -- Better smoothing -- Counts in BIN after BIN -- Product-ration plots -- Shapes of distribution -- Mathematical distributions -- Postscript</dcterms:abstract>
+        <dc:title>Exploratory data analysis</dc:title>
+        <z:numPages>714</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-1-5165-5428-7">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petrie</foaf:surname>
+                        <foaf:givenName>Adam G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3615"/>
+        <dc:identifier>ISBN 978-1-5165-5428-7</dc:identifier>
+        <dc:date>December 28, 2015</dc:date>
+        <z:libraryCatalog>Amazon</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dcterms:abstract>The primary goal of Introduction to Regression Modeling with R is to help students understand the types of questions regression models can and cannot answer and how to answer them. Students will become familiar with fitting both simple and complex models using R. The text stresses model interpretation rather than tedious algebra or mathematics since R calculates almost all relevant numbers. Equations are presented to help flesh out the &quot;&quot;why&quot;&quot; behind various aspects of modeling and to provide additional insights into how regression models work. Introduction to Regression Modeling with R includes numerous examples and sections not featured in earlier editions, and R code is visible throughout the book. A custom R package accompanies the text and was written to aid in regression model building and interpretation. This text is intended for those studying for professions that make use of large and potentially complex datasets arising observational studies, particularly in the fields of business and social science.</dcterms:abstract>
+        <dc:title>Introduction to Regression and Modeling with R</dc:title>
+        <z:numPages>330</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_3615">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.amazon.com/-/es/Adam-G-Petrie/dp/1516554280/ref=sr_1_8?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=21T3RBYDX7612&amp;keywords=introduction+to+regression&amp;qid=1660835038&amp;sprefix=introduction+to+regression%2Caps%2C225&amp;sr=8-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 23:14:39</dcterms:dateSubmitted>
+        <dc:title>Amazon.com Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-4462-7295-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Los Angeles</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brunsdon</foaf:surname>
+                        <foaf:givenName>Chris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Comber</foaf:surname>
+                        <foaf:givenName>Lex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3618"/>
+        <dc:identifier>ISBN 978-1-4462-7295-4</dc:identifier>
+        <dc:date>2015</dc:date>
+        <z:libraryCatalog>Amazon</z:libraryCatalog>
+        <z:language>Inglés</z:language>
+        <dcterms:abstract>&quot;In an age of big data, data journalism and with a wealth of quantitative information around us, it is not enough for students to be taught only 100 year old statistical methods using ′out of the box′ software. They need to have 21st-century analytical skills too. This is an excellent and student-friendly text from two of the world leaders in the teaching and development of spatial analysis. It shows clearly why the open source software R is not just an alternative to commercial GIS, it may actually be the better choice for mapping, analysis and for replicable research. Providing practical tips as well as fully working code, this is a practical ′how to′ guide ideal for undergraduates as well as those using R for the first time. It will be required reading on my own courses.&quot; - Richard Harris, Professor of Quantitative Social Science, University of Brist#strong/strong#  R is a powerful open source computing tool that supports geographical analysis and mapping for the many geography and ‘non-geography’ students and researchers interested in spatial analysis and mapping.   This book provides an introduction to the use of R for spatial statistical analysis, geocomputation and the analysis of geographical information for researchers collecting and using data with location attached, largely through increased GPS functionality.   Brunsdon and Comber take readers from ‘zero to hero’ in spatial analysis and mapping through functions they have developed and compiled into R packages. This enables practical R applications in GIS, spatial analyses, spatial statistics, mapping, and web-scraping. Each chapter includes:Example data and commands for exploring itScripts and coding to exemplify specific functionalityAdvice for developing greater understanding - through functions such as locator(), View(), and alternative coding to achieve the same ends Self-contained exercises for students to work throughEmbedded code within the descriptive text.  This is a definitive ′how to′ that takes students - of any discipline - from coding to actual applications and uses of R.</dcterms:abstract>
+        <dc:title>An Introduction to R for Spatial Analysis and Mapping</dc:title>
+        <z:numPages>360</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_3618">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.amazon.com/-/es/Chris-Brunsdon/dp/1446272958/ref=sr_1_10?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=14AGM5SZZ89MA&amp;keywords=gis+in+R&amp;qid=1660966114&amp;s=books&amp;sprefix=gis+in+r%2Cstripbooks%2C239&amp;sr=1-10</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 23:15:00</dcterms:dateSubmitted>
+        <dc:title>Amazon.com Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://guylipman.medium.com/the-art-of-wordle-f861204a1f99">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Medium</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lipman</foaf:surname>
+                        <foaf:givenName>Guy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3620"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://guylipman.medium.com/the-art-of-wordle-f861204a1f99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2022-01-16T18:56:31.240Z</dc:date>
+        <dcterms:dateSubmitted>2026-03-04 23:15:36</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dcterms:abstract>There’s a new game that made it onto internet, Wordle. Somewhat similar to Mastermind, your aim is to guess a five letter word. After each…</dcterms:abstract>
+        <dc:title>The Art of Wordle</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3620">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3620/the-art-of-wordle-f861204a1f99.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://guylipman.medium.com/the-art-of-wordle-f861204a1f99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 23:15:42</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.cambridge.org/core/product/identifier/S0003055404001194/type/journal_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0003-0554,%201537-5943"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clinton</foaf:surname>
+                        <foaf:givenName>Joshua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackman</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rivers</foaf:surname>
+                        <foaf:givenName>Douglas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3623"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/S0003055404001194/type/journal_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
+        <bib:pages>355-370</bib:pages>
+        <dc:date>05/2004</dc:date>
+        <dcterms:dateSubmitted>2026-03-04 23:20:06</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>We develop a Bayesian procedure for estimation and inference for spatial models of roll call voting. This approach is extremely flexible, applicable to any legislative setting, irrespective of size, the extremism of the legislators' voting histories, or the number of roll calls available for analysis. The model is easily extended to let other sources of information inform the analysis of roll call data, such as the number and nature of the underlying dimensions, the presence of party whipping, the determinants of legislator preferences, and the evolution of the legislative agenda; this is especially helpful since generally it is inappropriate to use estimates of extant methods (usually generated under assumptions of sincere voting) to test models embodying alternate assumptions (e.g., log-rolling, party discipline). A Bayesian approach also provides a coherent framework for estimation and inference with roll call data that eludes extant methods; moreover, via Bayesian simulation methods, it is straightforward to generate uncertainty assessments or hypothesis tests concerning any auxiliary quantity of interest or to formally compare models. In a series of examples we show how our method is easily extended to accommodate theoretically interesting models of legislative behavior. Our goal is to provide a statistical framework for combining the measurement of legislative preferences with tests of models of legislative behavior.</dcterms:abstract>
+        <dc:title>The Statistical Analysis of Roll Call Data</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0003-0554,%201537-5943">
+        <prism:volume>98</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>American Political Science Review</dc:title>
+        <dc:identifier>ISSN 0003-0554, 1537-5943</dc:identifier>
+        <dcterms:alternative>Am Polit Sci Rev</dcterms:alternative>
+        <dc:identifier>DOI 10.1017/S0003055404001194</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3623">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3623/Clinton et al. - 2004 - The Statistical Analysis of Roll Call Data.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3626">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Câmara</foaf:surname>
+                        <foaf:givenName>Gilberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteiro</foaf:surname>
+                        <foaf:givenName>Antônio Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fucks</foaf:surname>
+                        <foaf:givenName>Suzana Druck</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sá</foaf:surname>
+                        <foaf:givenName>Marília</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3625"/>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Spatial Analysis and GIS: A Primer</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3625">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3625/Câmara et al. - Spatial Analysis and GIS A Primer.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
